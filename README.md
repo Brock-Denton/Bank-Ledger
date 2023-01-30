@@ -15,6 +15,15 @@ Streamlit:
 -pip install streamlit
 
 ---
+## Walk-Through
+
+App
+![full_app](https://user-images.githubusercontent.com/23126459/215564463-3d7022ee-7430-49f7-bc6b-1cfbf4dc3fe8.PNG)
+
+Hash Validation
+![hashes_2](https://user-images.githubusercontent.com/23126459/215564557-d8f27262-8d81-4dd3-bb71-65e54bf7820b.PNG)
+
+---
 ## Please navigate to [Pychain](https://github.com/Brock-Denton/Bank-Ledger/blob/main/pychain.py)
 ---
 ## Contributor
